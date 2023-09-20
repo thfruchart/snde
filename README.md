@@ -1,3 +1,5 @@
-# Évangiles synoptiques
-## Année A : question synoptique et évangile selon Marc
-* [fiche méthode]()
+# Évangiles synoptiques : Année A 
+* [fiche méthode](Fiche-Méthode.pdf)
+## Question synoptique et 
+## Évangile selon Marc
+
