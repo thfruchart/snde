@@ -5,4 +5,5 @@
 ## Évangile selon Marc
 * [Commencement de l'évangile](MARC01.md) <[PDF](MARC01.pdf)>
 * [Activité de Jésus en Galilée](MARC02.md) <[PDF](MARC02.pdf)>
+* [Controverses en Galilée](MARC03.md) <[PDF](MARC03.pdf)>
 
