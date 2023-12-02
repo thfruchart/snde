@@ -11,4 +11,5 @@
 * [Le clé des paraboles](MARC05.md) <[PDF](MARC05.pdf)>
 * [Envoi en mission et partage des pains](MARC06.md) <[PDF](MARC06.pdf)>
 * [Le "tournant" de l'évangile selon Marc](MARC07.md) <[PDF](MARC07.pdf)>
+* [De la confession de Pierre, vers Jérusalem](MARC08.md) <[PDF](MARC08.pdf)>
 
