@@ -3,6 +3,6 @@
 ## Évangile selon Matthieu
 * [COURS1](COURS1.pdf)
 * [structure de Mt 1-2](StructureMt1-2.pdf)
-* [COURS2 (début)](COURS2.1.pdf)
+* [COURS2 (complet)](COURS2.1.pdf)
 ## Évangile selon Luc
 ## Passion et résurrection
