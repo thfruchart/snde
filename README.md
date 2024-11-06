@@ -5,5 +5,6 @@
 * [structure de Mt 1-2](StructureMt1-2.pdf)
 * [COURS2 : Mt 3-4](COURS2.pdf)
 * [COURS3 : Mt 5-7](COURS3.pdf)
+* [COURS4 : Mt 8-9](COURS4.pdf)
 ## Évangile selon Luc
 ## Passion et résurrection
