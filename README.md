@@ -11,4 +11,5 @@
 * [COURS4 : Mt 8-9](COURS4.pdf)
 ## Évangile selon Luc
 * [COURS5 : Lc 1-2](COURS5.pdf)
+* [COURS6 : Lc 1-2](COURS6.pdf)
 ## Passion et résurrection
