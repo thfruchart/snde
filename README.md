@@ -13,4 +13,5 @@
 * [COURS5 : Lc 1-2](COURS5.pdf)
 * [COURS6 : Lc 4](COURS6.pdf)
 * [COURS7 : Lc 7](COURS7.pdf)
+* [COURS8 : Lc 15](COURS8.pdf)
 ## Passion et résurrection
