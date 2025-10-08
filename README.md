@@ -3,3 +3,4 @@
 * [COURS 2](SYN02.pdf)
 ## Évangile selon Marc
 1. [Marc1,1-15](MARC01.pdf)
+2. [Marc1,14-45](MARC02.pdf)
