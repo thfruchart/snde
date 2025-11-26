@@ -6,4 +6,6 @@
 2. [Marc 1,14-45](MARC02.pdf)
 3. [Marc 2,1 - 3,6](MARC03.pdf)
 4. [Marc 3,7-35](MARC04.pdf)
-5. [Marc 4...](MARC05.pdf)
+5. [Marc 4](MARC05.pdf)
+6. [Marc 5,1-6,6](MARC06.pdf)
+7. [Marc 6,6-8,33](MARC07.pdf)
