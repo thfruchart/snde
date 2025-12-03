@@ -7,4 +7,5 @@
 3. [Marc 2,1 - 3,6](MARC03.pdf)
 4. [Marc 3,7-35](MARC04.pdf)
 5. [Marc 4 : PARABOLES](MARC05.pdf)
-7. [Marc 8 : vers la reconnaissance de Jésus comme "Christ"](MARC07.pdf)
+7. [Vers la reconnaissance de Jésus comme "Christ"](MARC07.pdf)
+8. [Les 3 annonces de la Passion](MARC08.pdf)
