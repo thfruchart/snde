@@ -10,3 +10,4 @@
 7. [Vers la reconnaissance de Jésus comme "Christ"](MARC07.pdf)
 8. [Les 3 annonces de la Passion](MARC08.pdf)
 9. [Autour du Temple à Jérusalem](MARC09.pdf)
+10. [Récit de la passion](MARC10.pdf)
