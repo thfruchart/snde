@@ -12,3 +12,5 @@
 9. [Autour du Temple à Jérusalem](MARC09.pdf)
 10. [Récit de la passion](MARC10.pdf)
 11. [Le crucifié relevé](MARC11.pdf)
+#### retour sur la "section des pains
+12. [mission et pains](MARC06.pdf)
