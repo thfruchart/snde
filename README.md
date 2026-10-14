@@ -5,7 +5,7 @@
 * [Alliance Biblique Française](https://lire.la-bible.net/bible/NBS,TOB/LUK.4)
 ## Évangile selon Matthieu
 * [**COURS1 : Mt 1-2**](COURS1.pdf)
-  * [**structure de Mt 1-2**](StructureMt1-2.pdf)
+  * [structure de Mt 1-2](StructureMt1-2.pdf)
 * [**COURS2 : Mt 3-4**](COURS2.pdf)
   * [MEIER sur JB et Jésus](3.MEIER_sur_BAPTEME.pdf) 
 * [COURS3 : Mt 5-7](COURS3.pdf)
